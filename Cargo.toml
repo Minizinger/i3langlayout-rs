@@ -1,5 +1,5 @@
 [package]
-name = "i3langlayout_rs"
+name = "i3langlayout"
 version = "0.1.0"
 authors = ["Mikhail Kharitonovich <kharitonovich.m@gmail.com>"]
 

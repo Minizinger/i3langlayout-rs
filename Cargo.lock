@@ -1,5 +1,5 @@
 [root]
-name = "i3langlayout_rs"
+name = "i3langlayout"
 version = "0.1.0"
 dependencies = [
  "cairo 0.0.4 (registry+https://github.com/rust-lang/crates.io-index)",
