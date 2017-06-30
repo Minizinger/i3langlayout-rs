@@ -1,0 +1,3 @@
+layouts=["us"]
+separate_workspaces=true
+hotkey=[56, 42]
